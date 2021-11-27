@@ -10,7 +10,7 @@
 - 🌱 Estou me aperfeiçoando no Back End com Javascript, estudando Sequelize e NoSQL;
 - 📫 Contate-me no email: yasmimroza16@gmail.com ;
 - 😄 Pronouns: ela/dela;
-- 
+
 <div align="center">
   <a href="https://github.com/YasmimRoza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimRoza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
