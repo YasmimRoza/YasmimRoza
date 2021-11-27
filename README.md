@@ -1,6 +1,5 @@
 # Olá sou Yasmim Roza!
 
-
 - 🔭 Estou a procura do meu primeiro trabalho com programação Back End, em Javascript, NodeJs com Express;
 - 👩‍🎓 Sou formada em Sistema de Informação ;
 - 🎡 Tenho experiência CLT como Jovem Aprendiz em Sporte de TI;
