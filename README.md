@@ -1,4 +1,4 @@
-## Olá sou a Yasmim Roza
+# Olá sou Yasmim Roza!
 
 
 - 🔭 Estou a procura do meu primeiro trabalho com programação Back End, em Javascript, NodeJs com Express;
