@@ -10,10 +10,10 @@
 - 📫 Contate-me no email: yasmimroza16@gmail.com ;
 - 😄 Pronouns: ela/dela;
 
-<div align="display-align">
+<div align="center">
   <a href="https://github.com/YasmimRoza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimRoza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimRoza&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimRoza&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
