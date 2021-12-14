@@ -2,11 +2,10 @@
 
 - 🔭 Estou a procura do meu primeiro trabalho com programação Back End, em Javascript, NodeJs com Express;
 - 👩‍🎓 Sou formada em Sistema de Informação ;
-- 🎡 Tenho experiência CLT como Jovem Aprendiz em Sporte de TI;
 - 🎆 Possuo conhecimento em SQL intermediário utilizando o SGBD, MySQL;
 - ✨ Também possuo conhecimento no método ágil SCRUM, e sei interpretar a UML com OO;
 - 🎇 E sou coautora do livro: [Bando De Dados: Implementando Sql](https://www.alexaloja.com/MLB-1850643058-banco-de-dados-implementando-sql-_JM).
-- 🌱 Estou me aperfeiçoando no Back End com Javascript, estudando Sequelize e NoSQL;
+- 🌱 Sou Desenvolvedora Back End com NodeJS e Javascript, estudando Sequelize e NoSQL;
 - 📫 Contate-me no email: yasmimroza16@gmail.com ;
 - 😄 Pronouns: ela/dela;
   
