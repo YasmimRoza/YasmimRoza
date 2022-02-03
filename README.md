@@ -1,6 +1,5 @@
 # Olá sou Yasmim Roza!
 
-- 🔭 Estou a procura do meu primeiro trabalho com programação Back End, em Javascript, NodeJs com Express;
 - 👩‍🎓 Sou formada em Sistema de Informação ;
 - 🎆 Possuo conhecimento em SQL intermediário utilizando o SGBD, MySQL;
 - ✨ Também possuo conhecimento no método ágil SCRUM, e sei interpretar a UML com OO;
