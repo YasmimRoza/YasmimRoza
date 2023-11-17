@@ -5,7 +5,7 @@
 - ✨ Também possuo conhecimento no método ágil SCRUM, e sei interpretar a UML com OO;
 - 🎇 E sou coautora do livro: [Bando De Dados: Implementando Sql](https://www.alexaloja.com.br/MLB-1850643058-banco-de-dados-implementando-sql-_JM#position=20&search_layout=grid&type=item&tracking_id=2069a85c-f7a6-4a8b-9f3b-ef0a2051b648);
 - 🌱 Sou Desenvolvedora Back End, com experiência em, NodeJS e Java, usando TypeScript e SpringBoot, usando as ORM's TypeORM e FLyWay, respectivamente;
-- 📫 Contate-me no email: yasmimroza16@gmail.com ;
+- 📫 Contate-me no email: yasmimrozadev@gmail.com ;
 - 😄 Pronouns: ela/dela;
   
 <div align="center">
